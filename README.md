@@ -16,11 +16,7 @@ If the live link requires permission, use the dashboard PDF preview:
 
 `dashboard/insurance_dashboard.pdf`
 
-## Why Data Files Are Not Included
-
-The raw and analysis-ready datasets are not included in this repository.
-
-This is intentional. The project uses a public synthetic Kaggle dataset, and the notebook downloads the source dataset directly instead of redistributing CSV files in the repo.
+## Data 
 
 Dataset source:
 
